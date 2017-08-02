@@ -1,0 +1,11 @@
+
+Explicacion de lo que queremos conseguir con ANC:
+
+- Micrófono capta ruido
+- Amplificación del ruido
+- Inversión del ruido 180º
+- Sumación del ruido invertido a la música
+
+--> Producto final que escuchamos : 
+
+Música + ruido + (-ruidoInverso) = MUSICA y na más.
